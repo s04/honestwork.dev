@@ -118,8 +118,8 @@ menu:
       name: home
       url: https://s04.github.io/honestwork.dev/
       weight: 10
-    - identifier: Blog
-      name: Blog
+    - identifier: blog
+      name: blog
       url: /blog/
       weight: 20
     # - identifier: categories
